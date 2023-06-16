@@ -21,11 +21,12 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  text-align: right;
   float: right;
   width: 30%;
   padding-top: 30px;
  margin-bottom: 10px;
+  margin-left: -230px; 
+
 
 }
 
@@ -91,11 +92,11 @@ footer {
 }
 .quadrado{
   width: 200px;
-  height: 270px;
+  height: 200px;
   background-color: #D9D9D9;
   margin: 50px;
   display: inline-block;
-  padding-top: 110px;
+  padding-top: 90px;
   border-radius: 8px;
   position: relative;
   top: -350px;
@@ -122,6 +123,8 @@ width: 400px;
 
 .boxs h3 {
 color: #000000;
+margin-botton: 20px;
+
 }
 
 .boxs ul li {
@@ -171,25 +174,117 @@ position: relative;
 left: -700px;
 top: -230px;
 }
-.fone1{
-  width: 45px;
-  height: 40x;
-  left: 450px;
-  position: relative;
-  top: -1865px; 
+
+.search-bar {
+display: inline-flex;
+border-radius: 10px;
+overflow: hidden;
+background-color: transparent;
+color: white;
+position: relative;
+top: -1158px; 
+margin-left: 280px;
+border: 2px solid white;
 }
 
-.carrinho {
-  width: 45px;
-  height: 40x;
-  left: 450px;
-  position: relative;
-  top: -1865px; 
+.search-bar input[type="text"] {
+padding: 10px;
+border: none;
+background-color: transparent;
 }
-.seta {
-  width: 45px;
-  height: 40x;
-  left: 450px;
+
+.search-bar button {
+padding: 10px 20px;
+border: none;
+background-color: transparent;
+cursor: pointer;
+border: 0,5px solid white;
+background-image: url("lupa.png");
+}
+.Facebook{
+  width: 23px;
+  height: 23px;
+  float: right;
+  right: 2px;
   position: relative;
-  top: -1865px; 
+  top: -570px;
+}
+.Instagram{
+  width: 23px;
+  height: 23px;
+  float: right;
+  right: 10px;
+  position: relative;
+  top: -570px;
+}
+.Twitter{
+  width: 23px;
+  height: 23px;
+  float: right;
+  right: -75px;
+  position: relative;
+  top: -570px;
+}
+.botao4 {
+  position: absolute;
+  top: 75%;
+  left: 84%;
+  transform: translate(-50%, -50%);
+  padding: 5px 20px;
+  background-color: #001020;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.botao:hover {
+background-color: #555;
+}
+
+.botao1 {
+  position: absolute;
+  top: 75%;
+  left: 84%;
+  transform: translate(-980%, -50%);
+  padding: 5px 20px;
+  background-color: #001020;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.botao:hover {
+background-color: #555;
+}
+
+.botao2 {
+  position: absolute;
+  top: 75%;
+  left: 85%;
+  transform: translate(-680%, -50%);
+  padding: 5px 20px;
+  background-color: #001020;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.botao:hover {
+background-color: #555;
+}
+
+.botao3 {
+  position: absolute;
+  top: 75%;
+  right: 40%;
+  transform: translate( 50%, -50%);
+  padding: 5px 20px;
+  background-color: #001020;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.botao:hover {
+background-color: #555;
 }

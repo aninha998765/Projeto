@@ -307,10 +307,172 @@ background-color: #555;
   position: absolute;
   top: 5%;
 }
-.fone1{
-  width: 100px;
-  height: 90px;
-  float: right;
+.note1{
+  width: 145px;
+  height: 120px;
+  float: left;
+  left: 65px;
   position: absolute;
-  top: 45%;
+  top: 35%;
+}
+
+.note2{
+  width: 115px;
+  height: 108px;
+  float: left;
+  left: 395px;
+  position: absolute;
+  top: 35%;
+}
+
+.note3{
+  width: 110px;
+  height: 105px;
+  float: left;
+  left: 710px;
+  position: absolute;
+  top: 35%;
+}
+
+.note4{
+  width: 115px;
+  height: 100px;
+  float: left;
+  left: 1010px;
+  position: absolute;
+  top: 35%;
+}
+
+.texto1{
+  width: 130px;
+  height: 115px;
+  float: left;
+  left: 80px;
+  position: absolute;
+  top: 55%;
+  font-size: 55%;
+  text-align: center;
+
+}
+
+.texto2{
+  width: 130px;
+  height: 115px;
+  float: left;
+  left: 80px;
+  position: absolute;
+  top: 66%;
+  font-size: 70%;
+  text-align: center;
+  
+
+}
+
+.texto3{
+  width: 130px;
+  height: 115px;
+  float: left;
+  left: 80px;
+  position: absolute;
+  top: 63%;
+  font-size: 55%;
+  text-align: center;
+  color: grey
+
+}
+.texto4{
+  width: 130px;
+  height: 115px;
+  float: left;
+  left: 385px;
+  position: absolute;
+  top: 55%;
+  font-size: 55%;
+  text-align: center;
+
+}
+.texto5{
+  width: 130px;
+  height: 115px;
+  float: left;
+  left: 385px;
+  position: absolute;
+  top: 63%;
+  font-size: 55%;
+  text-align: center;
+  color: grey
+}
+.texto6{
+  width: 130px;
+  height: 115px;
+  float: left;
+  left: 385px;
+  position: absolute;
+  top: 66%;
+  font-size: 70%;
+  text-align: center;
+}
+.texto7{
+  width: 130px;
+  height: 115px;
+  float: left;
+  left: 690px;
+  position: absolute;
+  top: 55%;
+  font-size: 55%;
+  text-align: center;
+
+}
+.texto8{
+  width: 130px;
+  height: 115px;
+  float: left;
+  left: 690px;
+  position: absolute;
+  top: 63%;
+  font-size: 55%;
+  text-align: center;
+  color: grey
+}
+.texto9{
+  width: 130px;
+  height: 115px;
+  float: left;
+  left: 690px;
+  position: absolute;
+  top: 66%;
+  font-size: 70%;
+  text-align: center;
+}
+.texto10{
+  width: 130px;
+  height: 115px;
+  float: left;
+  left: 990px;
+  position: absolute;
+  top: 55%;
+  font-size: 55%;
+  text-align: center;
+
+}
+.texto11{
+  width: 130px;
+  height: 115px;
+  float: left;
+  left: 995px;
+  position: absolute;
+  top: 63%;
+  font-size: 55%;
+  text-align: center;
+  color: grey
+}
+.texto12{
+  width: 130px;
+  height: 115px;
+  float: left;
+  left: 995px;
+  position: absolute;
+  top: 66%;
+  font-size: 70%;
+  text-align: center;
 }

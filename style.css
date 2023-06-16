@@ -191,6 +191,7 @@ border: 2px solid white;
 padding: 10px;
 border: none;
 background-color: transparent;
+color: white
 }
 
 .search-bar button {
@@ -287,4 +288,29 @@ background-color: #555;
 
 .botao:hover {
 background-color: #555;
+}
+
+.carrinho{
+  width: 35px;
+  height: 26px;
+  float: right;
+  right: 90px;
+  position: absolute;
+  top: 5%;
+}
+
+.seta{
+  width: 35px;
+  height: 26px;
+  float: right;
+  right: 50px;
+  position: absolute;
+  top: 5%;
+}
+.fone1{
+  width: 100px;
+  height: 90px;
+  float: right;
+  position: absolute;
+  top: 45%;
 }
